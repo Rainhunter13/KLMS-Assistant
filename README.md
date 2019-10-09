@@ -1,4 +1,4 @@
-KLMS Assistant Bot
+#KLMS Assistant Bot
 
 A telegram bot that notifies KAIST students when there is a new notice in KLMS (KAIST Learning Management System) account.
 
